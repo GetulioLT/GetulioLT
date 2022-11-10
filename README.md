@@ -1,4 +1,4 @@
-### Olá meu nome é Getulio Vagner, Sou programador da Startup Less Time e Monitor na escola Infinity School 👋
+### Olá meu nome é Getulio Vagner, Sou programador da Startup Less Time e Monitor/Professor na escola Infinity School 👋
 
 <div align="center">
   <a href="https://github.com/GetulioLT">
